@@ -1,0 +1,9 @@
+## Interface: 110000
+## Title: AzerothJourney
+## Notes: Max-level World Tour Guide - Through the Ages (Level 80+)
+## Author: Frostcanvas
+## Version: 1.0.0
+## SavedVariables: AzerothJourneyDB
+
+AzerothJourney.lua
+AzerothJourney_Data.lua
